@@ -9,12 +9,12 @@ permalink:        pretty
 title:            InstantHFC
 tagline:          ''
 description:      'Your source of High-frequency Trading tech knowledge.'
-url:              http://johnsietsma.github.io/InstantHFC
-baseurl:          /
+url:              http://johnsietsma.github.io/
+baseurl:          /InstantHFT
 
 author:
   name:           'John Sietsma'
-  url:            http://johnsietsma.com/InstantHFT/
+  url:            http://johnsietsma.com
 
 paginate:         5
 
