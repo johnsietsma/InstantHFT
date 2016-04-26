@@ -14,7 +14,7 @@ baseurl:          /
 
 author:
   name:           'John Sietsma'
-  url:            https://johnsietsma.com
+  url:            http://johnsietsma.com/InstantHFT/
 
 paginate:         5
 
