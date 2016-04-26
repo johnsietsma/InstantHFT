@@ -1,0 +1,29 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            InstantHFC
+tagline:          ''
+description:      'Your source of High-frequency Trading tech knowledge.'
+url:              http://johnsietsma.github.io/InstantHFC
+baseurl:          /
+
+author:
+  name:           'John Sietsma'
+  url:            https://johnsietsma.com
+
+paginate:         5
+
+# Custom vars
+version:          0.1.0
+
+github:
+  repo:           https://github.com/johnsietsma/InstantHFT
+
+gems:
+  - jekyll-paginate
+  - jekyll-gist
